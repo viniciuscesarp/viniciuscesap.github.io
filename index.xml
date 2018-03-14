@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://viniciuscesarp.github.io/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2018 Vinicius César</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://viniciuscesarp.github.io/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>https://viniciuscesarp.github.io/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANÁLISE ESPACIAL DO PERCENTUAL DE GRAVIDEZ NA ADOLESCÊNCIA EM MUNICÍPIOS DO ESTADO DO PARANÁ, BRASIL</title>
+      <link>https://viniciuscesarp.github.io/project/estatistica-espacial/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://viniciuscesarp.github.io/project/estatistica-espacial/</guid>
+      <description>&lt;p&gt;A adolescência é um período do desenvolvimento humano marcada por inúmeras transformações, sejam físicas ou biológicas, que influenciam nas características comportamentais e emocionais dos indivíduos. Nessa fase, as relações sociais tornam-se mais intensas e o com o aumento dos estímulos hormonais, há-se o início das experiências sexuais. Mesmo com o desenvolvimento da maturidade e da responsabilidade individual, muitas adolescentes acabam submetidas ao risco de uma gravidez, podendo isto, estar associado a fatores sociais e econômicos.&lt;/p&gt;
+
+&lt;p&gt;Pesquisas na área salientam os perigos eminentes de uma gravidez nessa etapa da vida humana, tanto para a mãe quanto para a criança, elencando aspectos como desigualdade social e econômica como possíveis fatores associados. Contudo, a literatura carece de pesquisas que tenham por finalidade compreender esses tópicos no contexto espacial, em específico, no estado do Paraná. Nestas circunstâncias, o presente trabalho tem como objetivo estudar a relação entre o percentual de gravidez na adolescência com fatores socioeconômicos nos 399 municípios do estado do Paraná, Brasil, durante o ano de 2010, por meio da utilização de métodos estatísticos. Tais fatores socioeconômicos considerados são: (i) Incidência a pobreza; (ii) Índice de Desenvolvimento Humano Municipal (IDH-M); (iii) Índice de Gini; (iv) Índice de Vulnerabilidade Social (IVS); (v) número de habitantes por município e (vi) Produto Interno Bruto (PIB). Considerando que os dados referentes as variáveis abordadas na pesquisa são públicos, coletou-se os mesmos das plataformas digitais do IBGE, SINASC (Sistema de Informação sobre Nascidos Vivos) e do Atlas do Desenvolvimento Humano no Brasil.&lt;/p&gt;
+
+&lt;p&gt;Espera-se compreender a relação entre as variáveis consideradas com o percentual de gravidez na adolescência. Também, considerar possíveis efeitos aleatórios no modelo que possam complementar o entendimento do problema. Dessa forma, espera-se preencher a lacuna existente na literatura que evidencie tais aspectos no âmbito espacial no estado do Paraná.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EFEITO DA NÃO NORMALIDADE E DA ESTIMAÇÃO DOS PARÂMETROS NO DESEMPENHO DE GRÁFICOS DE CONTROLE EM DELINEAMENTOS POR CONJUNTOS ORDENADOS</title>
+      <link>https://viniciuscesarp.github.io/project/grafico-controle/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://viniciuscesarp.github.io/project/grafico-controle/</guid>
+      <description>&lt;p&gt;A amostragem por conjuntos ordenados (ACO) é um delineamento amostral apropriado em situações em que a avaliação da variável de interesse é dispendiosa (seja por aspectos financeiros ou operacionais), havendo, no entanto, a possibilidade de ranquear unidades amostrais de forma econômica e precisa. Nesse contexto, a ACO viabiliza a produção de estimativas mais precisas do que a Amostragem Aleatória Simples (AAS) mediante seleção de um menor número de unidades amostrais.&lt;/p&gt;
+
+&lt;p&gt;Ao longo das últimas décadas, diversas extensões do delineamento original da ACO foram propostos, verificando-se, em diferentes contextos, a maior eficiência (conjugada a menores custos) dessa classe de delineamentos amostrais em relação à AAS e outros delineamentos amostrais mais convencionais. Um cenário em que a ACO é particularmente indicada é no Controle Estatístico de Processos (CEP), área na qual a demanda por métodos estatísticos que proporcionem ganho de precisão e maior economia é bastante elevada. No entanto, a aplicação da ACO em CEP somente foi abordada recentemente, configurando uma área de pesquisa com grandes perspectivas. Assim, o presente projeto contempla a proposta e análise de métodos baseados em delineamentos amostrais por conjuntos ordenados no CEP. Dentre os principais temas a serem abordados, destacam-se a proposta e análise do desempenho de gráficos de controle adaptativos, a proposta de gráficos de controle robustos e a utilização de métodos de re-amostragem em diferentes problemas de Controle Estatístico de Qualidade (CEQ).&lt;/p&gt;
+
+&lt;p&gt;Os métodos propostos serão avaliados com base nos resultados de extensivos estudos por simulação. A ilustração dos métodos em conjuntos de dados reais permitirá visualizar suas respectivas aplicações. Adicionalmente, pretende-se implementar e disponibilizar rotinas computacionais que viabilizem a aplicação dos métodos e sirvam de suporte para estudos futuros. Todas as análises, bem como o desenvolvimento de um pacote com funções específicas, serão realizados usando o ambiente computacional estatístico R.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LabestData</title>
+      <link>https://viniciuscesarp.github.io/project/labest/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://viniciuscesarp.github.io/project/labest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>https://viniciuscesarp.github.io/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://viniciuscesarp.github.io/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>https://viniciuscesarp.github.io/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://viniciuscesarp.github.io/publication/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
