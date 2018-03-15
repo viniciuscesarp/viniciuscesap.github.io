@@ -235,7 +235,7 @@ defaultContentLanguageInSubdir = true
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/Vinicius-Cesar"
+    link = "//github.com/viniciuscesarp"
     
   [[params.social]]
     icon = "file"
