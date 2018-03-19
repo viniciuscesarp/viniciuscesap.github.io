@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "LabestData"
 
 # Project summary to display on homepage.
-summary = "Projeto desenvolvido pelos membros do grupos PET Estatística"
+summary = "Projeto desenvolvido pelos membros do grupo PET Estatística"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "labest.jpg"
