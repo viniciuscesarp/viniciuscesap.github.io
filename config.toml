@@ -240,7 +240,7 @@ defaultContentLanguageInSubdir = true
   [[params.social]]
     icon = "file"
     icon_pack = "fa"
-    link = "//lattes.cnpq.br/9490767578507189"
+    link = "http://lattes.cnpq.br/9490767578507189"
 
   [[params.social]]
     icon = "stack-overflow"
