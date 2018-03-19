@@ -9,7 +9,7 @@ title = "LabestData"
 summary = "Projeto desenvolvido pelos membros do grupo PET Estatística"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "labest.jpg"
+image_preview = "labestData.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
