@@ -236,7 +236,7 @@ defaultContentLanguageInSubdir = true
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/viniciuscesarp"
-    
+     
   [[params.social]]
     icon = "file"
     icon_pack = "fa"
@@ -250,7 +250,7 @@ defaultContentLanguageInSubdir = true
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "www.linkedin.com/in/vinicius-cesar"
+    link = "https://www.linkedin.com/in/vinicius-cesar"
 
 
 
