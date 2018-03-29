@@ -30,10 +30,11 @@ weight = 5
  
 +++
 
-Bacharelando em Estatística pela Universidade Federal do Paraná ([UFPR][ufpr]), Vinicius César participou durante o período de graduação em atividades do [PIBIC][pibic] (Programa Institucional de Bolsas de Iniciação Científica), [PID][pid] (Programa de Iniciação à Docência) e [PET][pet] (Programa de Educação Tutorial). Tem como linhas de estudo modelagem estatística, controle estatístico de qualidade e estatística espacial.  
+Bacharelando em Estatística pela Universidade Federal do Paraná ([UFPR][ufpr]), Vinicius César participou durante o período de graduação em atividades do [PIBIC][pibic] (Programa Institucional de Bolsas de Iniciação Científica), [PID][pid] (Programa de Iniciação à Docência), [PET][pet] (Programa de Educação Tutorial) e [LEA][lea](Laboratório de Estatística Aplicada). Tem como linhas de estudo modelagem estatística, controle estatístico de qualidade e estatística espacial.  
 
 [ufpr]: http://www.ufpr.br/portalufpr/
 [pibic]: http://www.prppg.ufpr.br/site/ic/
 [pid]: http://www.prograd.ufpr.br/portal/copeg/monitoriapidpim/
 [pet]: http://www.pet.est.ufpr.br/
+[lead]: http://www.lea.ufpr.br/ 
 
