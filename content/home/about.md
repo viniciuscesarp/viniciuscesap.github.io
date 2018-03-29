@@ -36,5 +36,5 @@ Bacharelando em Estatística pela Universidade Federal do Paraná ([UFPR][ufpr])
 [pibic]: http://www.prppg.ufpr.br/site/ic/
 [pid]: http://www.prograd.ufpr.br/portal/copeg/monitoriapidpim/
 [pet]: http://www.pet.est.ufpr.br/
-[lead]: http://www.lea.ufpr.br/ 
+[lea]: http://www.lea.ufpr.br/ 
 
